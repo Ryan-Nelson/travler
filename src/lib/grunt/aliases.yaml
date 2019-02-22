@@ -1,0 +1,7 @@
+default:
+  - "eslint"
+  - "bgShell:launchAPI"
+  - "http-server"
+  - "bgShell:launchAPI"
+  - "browserify"
+  - "watch"
